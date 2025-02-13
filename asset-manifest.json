@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1a6a268.css",
+    "main.js": "/static/js/main.2a5e196d.js",
+    "static/js/206.103359d4.chunk.js": "/static/js/206.103359d4.chunk.js",
+    "static/media/IEEE-Mission.mp4": "/static/media/IEEE-Mission.94c421c17d3002f28578.mp4",
+    "static/media/Abstract_technology_of_science_background_generated.jpg": "/static/media/Abstract_technology_of_science_background_generated.fd4da6c59fb02fad2086.jpg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.e1a6a268.css",
+    "static/js/main.2a5e196d.js"
+  ]
+}
