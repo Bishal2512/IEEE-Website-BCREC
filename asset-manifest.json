@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.74b21141.css",
-    "main.js": "/static/js/main.9946a2f5.js",
+    "main.css": "/static/css/main.ba6ddd41.css",
+    "main.js": "/static/js/main.3d903d90.js",
     "static/js/206.103359d4.chunk.js": "/static/js/206.103359d4.chunk.js",
     "static/media/IEEE-Mission.mp4": "/static/media/IEEE-Mission.94c421c17d3002f28578.mp4",
     "static/media/IEEE_About_Video.mp4": "/static/media/IEEE_About_Video.3850adea1b0391d768c4.mp4",
@@ -10,7 +10,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.74b21141.css",
-    "static/js/main.9946a2f5.js"
+    "static/css/main.ba6ddd41.css",
+    "static/js/main.3d903d90.js"
   ]
 }
